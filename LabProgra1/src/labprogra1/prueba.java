@@ -11,5 +11,10 @@ package labprogra1;
 public class prueba {
     public static void main(String[] args) {
         System.out.println("Si");
+        System.out.println("si");
+        System.out.println("sisis");
+        System.out.println("sisisi");
+        System.out.println("ansansa");
+        System.out.println("sdsada");
     }
 }
